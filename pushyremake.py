@@ -36,9 +36,9 @@ if password == 'pushy':
 else :
 	print("[~>] DDoS Tools By pushy")
                                                             
-print("╔══════════════════════════════════════════════════
-         ║@pushy║ DDoSV2 ║ Private Tools ║ Methods GET/POST/HEAD ║
-         ╚══════════════════════════════════════════════════
+print("╔══════════════════════════════════════════════════")
+print("║@pushy║ DDoSV2 ║ Private Tools ║ Methods GET/POST/HEAD║")
+print("╚══════════════════════════════════════════════════")
 """)
 ip = str(input("╚══> IP : "))
 port = int(input("╚══> PORT : "))
